@@ -4,6 +4,7 @@ A collection of Deep Learning papers I read, sorted by category.
 ## 1. Computer Vision
 
 - [CNN architectures](cnn_archi.md).
+- [Unsupervised / Semisupervised / Weakly supervised learning](semisupervised.md)
 
 ## 2. Natural Language Processing
 
