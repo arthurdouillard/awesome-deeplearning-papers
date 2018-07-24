@@ -21,10 +21,14 @@
 
 ### 2016:
 
+- [X] **Densely Connected Convolutional Networks**, Huang et al.
+[`arxiv`](https://arxiv.org/abs/1608.06993)
 - [X] **Xception: Deep Learning with Depthwise Separable Convolutions**, Chollet.
 [`arxiv`](https://arxiv.org/abs/1610.02357) :star:
 - [X] **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations**,
 Liu et al. [`pdf`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
+- [ ] **Practical Riemannian Neural Networks**, Marceau-Caron and Ollivier.
+[`arxiv`](https://arxiv.org/abs/1602.08007)
 
 ### 2015:
 

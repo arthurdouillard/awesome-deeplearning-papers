@@ -11,8 +11,12 @@ because it's an influential paper in the field.
 - [Object Detection](categories/object_detection.md)
 - [Segmentation](categories/segmentation.md)
 - [Unsupervised / Semisupervised / Weakly supervised learning](categories/semisupervised.md)
+- [Visual Search](categories/visual_search.md)
 
 ## 2. Natural Language Processing
+
+- [Language modeling](categories/language_modeling.md)
+- [Translation](categories/translation.md)
 
 ## 3. Reinforcement learning
 
@@ -31,3 +35,4 @@ because it's an influential paper in the field.
 - [Learning rates scheduling & optimizers](categories/optimizers.md)
 - [Miscealleneous](categories/misc.md)
 - [Recommender Systems](categories/recsys.md)
+- [Normalization](categories/normalization.md)

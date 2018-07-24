@@ -5,6 +5,8 @@
 - [X] **Averaging Weights Leads to Wider Optima and Better Generalization**, Izmailov et al.
 [`arxiv`](https://arxiv.org/abs/1803.05407) :star:
 - [X] **Born Again Neural Networks**, Furlanello et al. [`arxiv`](https://arxiv.org/abs/1805.04770)
+- [X] **Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs**,
+Garipov et al. [`arxiv`](https://arxiv.org/abs/1802.10026)
 
 ### 2017:
 

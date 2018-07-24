@@ -27,8 +27,14 @@ Ren et al. [`arxiv`](https://arxiv.org/abs/1506.01497) [`blog`](https://arthurdo
 [`blog`](https://arthurdouillard.com/2018/03/26/fast-rcnn/) :star:
 - [X] **You Only Look Once: Unified, Real-Time Object Detection**, Redmon et al.
 [`arxiv`](https://arxiv.org/abs/1506.02640) :star:
+- [X] **Is object localization for free? – Weakly-supervised learning with convolutional neural networks**, Oquab et al. [`pdf`](https://www.di.ens.fr/~josef/publications/Oquab15.pdf)
 
 ### 2013:
 
 - [X] **Rich feature hierarchies for accurate object detection and semantic segmentation**,
 Girshick et al. [`arxiv`](https://arxiv.org/abs/1311.2524)
+
+### 2012:
+
+- [X] **Selective Search for Object Recognition**, Uijlings et al.
+[`pdf`](http://www.huppelen.nl/publications/selectiveSearchDraft.pdf)

@@ -8,3 +8,8 @@
 
 - [X] **U-Net: Convolutional Networks for Biomedical Image Segmentation**, Ronneberger et al.
 [`arxiv`](https://arxiv.org/abs/1505.04597) :star:
+
+### 2004:
+
+- [X] **Efficient Graph-Based Image Segmentation**, Felzenszwalb et al.,
+[`pdf`](http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf) :star:
