@@ -1,4 +1,4 @@
-# Visual Question Answering (VQA)
+# Visual Question Answering (VQA) & Captioning
 
 ### 2017:
 
@@ -13,7 +13,12 @@
 ### 2015:
 
 - [X] **Stacked Attention Networks for Image Question Answering**, Yang et al. [`arxiv`](https://arxiv.org/abs/1511.02274) :star:
-- [X] **VQA: Visual Question Answering**, Agrawal et al. [`arxiv`](https://arxiv.org/abs/1505.00468) :star:
+- [X] **VQA: Visual Question Answering**, Agrawal et al. [`arxiv`](https://arxiv.org/abs/1505.00468)
+
+### 2014:
+
+- [X] **Show and Tell: A Neural Image Caption Generator**, Vinyals et al.
+[`arxiv`](https://arxiv.org/abs/1411.4555) :star:
 
 
 # Datasets
