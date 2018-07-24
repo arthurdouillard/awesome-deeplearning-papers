@@ -3,12 +3,18 @@ A collection of Deep Learning papers I read, sorted by category.
 
 ## 1. Computer Vision
 
+- [CNN architectures](cnn_archi.md).
+
 ## 2. Natural Language Processing
 
 ## 3. Reinforcement learning
 
 ## 4. Generative models
 
+- [Generative Adverserial Networks (GAN)](gan.md).
+- [Neural Style Transfer](style_transfer.md).
+
 ## 5. Miscealleneous
 
-1. [Zero-shot, one-shot, and low-shot](low_shot.md).
+- [Zero-shot, one-shot, and low-shot learning](low_shot.md).
+- [Visual Question Answering (VQA)](vqa.md).
