@@ -1,6 +1,10 @@
 # awesome-deeplearning-papers
 A collection of Deep Learning papers I read, sorted by category.
 
+If it's checked it means I've read & understand it (mostly). If there's a :star:
+it means I think the paper is a must-read, either because it's interesting or
+because it's an influential paper in the field.
+
 ## 1. Computer Vision
 
 - [CNN architectures](cnn_archi.md).
