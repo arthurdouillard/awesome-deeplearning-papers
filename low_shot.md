@@ -1,5 +1,8 @@
 # Zero-shot, one-shot, and low-shot papers
 
+- **Optimization as a model for few-shots learning**, Ravi and Larochelle, 2018. [`pdf`](https://openreview.net/pdf?id=rJY0-Kcll)
+- **Few-shot learning of neural networks from scratch by pseudo example optimization**, Kimura et al., 2018. [`arxiv`](https://arxiv.org/abs/1802.03039)
+- **Meta-Learning for Semi-Supervised Few-Shot Classification**, Ren et al., 2018. [`arxiv`](https://arxiv.org/abs/1803.00676)
 - **One-Shot Imitation Learning**, Duan et al., 2017. [`arxiv`](https://arxiv.org/abs/1703.07326)
 - **Matching Networks for One Shot Learning**, Vinyals et al., 2016. [`arxiv`](https://arxiv.org/abs/1606.04080)
 - **Low-shot Visual Recognition by Shrinking and Hallucinating Features**, Hariharan et al., 2016. [`arxiv`](https://arxiv.org/abs/1606.02819)
