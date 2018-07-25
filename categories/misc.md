@@ -26,7 +26,7 @@ Xu et al. [`arxiv`](https://arxiv.org/abs/1505.00853)
 
 ### 2014:
 
-- [ ] **Neural Turing Machines**, Graves et al. [`arxiv`](https://arxiv.org/abs/1410.5401) :star:
+- [X] **Neural Turing Machines**, Graves et al. [`arxiv`](https://arxiv.org/abs/1410.5401) :star:
 - [X] **How transferable are features in deep neural networks?**, Yosinski et al.
 [`url`](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks)
 
