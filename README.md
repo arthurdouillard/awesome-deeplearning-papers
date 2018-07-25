@@ -1,6 +1,12 @@
 # awesome-deeplearning-papers
 A collection of Deep Learning papers I read, sorted by category.
 
+Notation:
+
+- [ ] The paper wasn't yet read or understood.
+- [X] The paper was read & (mostly) understood.
+- :star: Interesting paper.
+
 If it's checked it means I've read & understand it (mostly). If there's a :star:
 it means I think the paper is a must-read, either because it's interesting or
 because it's an influential paper in the field.

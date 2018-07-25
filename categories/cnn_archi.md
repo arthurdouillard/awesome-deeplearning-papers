@@ -48,4 +48,4 @@ Liu et al. [`pdf`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/pa
 ## 2012:
 
 - [X] **ImageNet Classification with Deep Convolutional Neural Networks**, Krizhevsky et al.
-[`arxiv`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) :star:
+[`arxiv`](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
