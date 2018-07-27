@@ -23,6 +23,8 @@ Berthelot et al. [`arxiv`](https://arxiv.org/abs/1703.10717)
 Chen et al. [`arxiv`](https://arxiv.org/abs/1606.03657)
 - [ ] **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**,
 Yu et al. [`arxiv`](https://arxiv.org/abs/1609.05473)
+- [ ] **Learning from Simulated and Unsupervised Images through Adversarial Training**,
+Shrivastava et al. [`arxiv`](https://arxiv.org/abs/1612.07828)
 
 ### 2015:
 

@@ -19,6 +19,7 @@ Notation:
 
 - [Language modeling](categories/language_modeling.md)
 - [Translation](categories/translation.md)
+- [Embeddings](categories/embeddings.md)
 
 ## 3. Reinforcement learning
 
