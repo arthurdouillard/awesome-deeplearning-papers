@@ -39,3 +39,4 @@ Notation:
 - [Miscealleneous](categories/misc.md)
 - [Recommender Systems](categories/recsys.md)
 - [Normalization](categories/normalization.md)
+- [Memory Augmented Neural Networks (MANN)](categories/memory_augmented_nn.md)
