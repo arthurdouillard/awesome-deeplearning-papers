@@ -1,0 +1,25 @@
+------ Global Statistics ------
+Total papers:  109
+Total read:    64
+Percentage:    58.72
+Nb of stars:   27
+-------------------------------
+--- 0/1    Translation
+--- 1/1    Recommender Systems
+--- 3/3    Learning rates scheduling & optimizers
+--- 0/12   Text embeddings
+--- 7/11   Object Detection
+--- 3/3    Segmentation
+--- 8/8    Normalization
+--- 1/1    Visual Search
+--- 5/5    Ensembling & distillation
+--- 6/6    Visual Question Answering (VQA) & Captioning
+--- 0/11   Generative Adversarial Networks
+--- 4/13   Zero-shot, one-shot, and low-shot papers
+--- 8/8    Miscealleneous
+--- 0/2    Unsupervised / Semisupervised / Weakly supervised learning
+--- 12/15  CNN Architectures
+--- 0/1    Reinforcement learning
+--- 1/3    Memory Augmented Neural Networks
+--- 4/4    Style Transfer
+--- 1/1    Language modeling
