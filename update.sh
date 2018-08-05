@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./stats > stats.txt
+./stats.py > stats.txt
 
 git add */*.md
 git add stats.txt
