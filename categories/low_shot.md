@@ -11,12 +11,16 @@
 ### 2017:
 
 - [ ] **One-Shot Imitation Learning**, Duan et al. [`arxiv`](https://arxiv.org/abs/1703.07326)
+- [ ] **Generative Adversarial Residual Pairwise Networks for One Shot Learning**, Mehrotra et al.
+[`arxiv`](https://arxiv.org/abs/1703.08033v1)
 
 ### 2016:
 
 - [X] **Matching Networks for One Shot Learning**, Vinyals et al. [`arxiv`](https://arxiv.org/abs/1606.04080)
 - [ ] **Low-shot Visual Recognition by Shrinking and Hallucinating Features**, Hariharan et al. [`arxiv`](https://arxiv.org/abs/1606.02819)
 - [ ] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
+- [ ] **LCNN: Lookup-based Convolutional Neural Network**, Bagherinezhad et al.
+[`arxiv`](https://arxiv.org/abs/1611.06473)
 
 ### 2015:
 
