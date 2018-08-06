@@ -13,10 +13,12 @@
 - [ ] **One-Shot Imitation Learning**, Duan et al. [`arxiv`](https://arxiv.org/abs/1703.07326)
 - [ ] **Generative Adversarial Residual Pairwise Networks for One Shot Learning**, Mehrotra et al.
 [`arxiv`](https://arxiv.org/abs/1703.08033v1)
+- [ ] **Prototypical Networks for Few-shot Learning**, Snell et al.
+[`arxiv`](https://arxiv.org/abs/1703.05175)
 
 ### 2016:
 
-- [X] **Matching Networks for One Shot Learning**, Vinyals et al. [`arxiv`](https://arxiv.org/abs/1606.04080)
+- [X] **Matching Networks for One Shot Learning**, Vinyals et al. [`arxiv`](https://arxiv.org/abs/1606.04080) :star:
 - [ ] **Low-shot Visual Recognition by Shrinking and Hallucinating Features**, Hariharan et al. [`arxiv`](https://arxiv.org/abs/1606.02819)
 - [ ] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
 - [ ] **LCNN: Lookup-based Convolutional Neural Network**, Bagherinezhad et al.
@@ -35,4 +37,6 @@
 # Datasets
 
 - **Omniglot**. [`github`](https://github.com/brendenlake/omniglot)
-  - 1623 different handwritten characters from 50 different alphabets.
+  - 1623 different handwritten characters written by 20 different persons.
+- **UCSD Bird**. [`url`](http://www.vision.caltech.edu/visipedia/CUB-200.html)
+  - 6000 images of 200 birds (30 images per bird).
