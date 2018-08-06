@@ -13,7 +13,7 @@
 - [ ] **One-Shot Imitation Learning**, Duan et al. [`arxiv`](https://arxiv.org/abs/1703.07326)
 - [ ] **Generative Adversarial Residual Pairwise Networks for One Shot Learning**, Mehrotra et al.
 [`arxiv`](https://arxiv.org/abs/1703.08033v1)
-- [ ] **Prototypical Networks for Few-shot Learning**, Snell et al.
+- [X] **Prototypical Networks for Few-shot Learning**, Snell et al.
 [`arxiv`](https://arxiv.org/abs/1703.05175)
 
 ### 2016:
