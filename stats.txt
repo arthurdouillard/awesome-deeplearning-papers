@@ -1,7 +1,7 @@
 ------ Global Statistics ------
 Total papers:  110
-Total read:    65
-Percentage:    59.09
+Total read:    66
+Percentage:    60.0
 Nb of stars:   28
 -------------------------------
 --- 0/1    Translation
@@ -15,7 +15,7 @@ Nb of stars:   28
 --- 5/5    Ensembling & distillation
 --- 6/6    Visual Question Answering (VQA) & Captioning
 --- 0/11   Generative Adversarial Networks
---- 5/14   Zero-shot, one-shot, and low-shot papers
+--- 6/14   Zero-shot, one-shot, and low-shot papers
 --- 8/8    Miscealleneous
 --- 0/2    Unsupervised / Semisupervised / Weakly supervised learning
 --- 12/15  CNN Architectures
