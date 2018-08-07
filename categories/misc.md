@@ -23,6 +23,8 @@ Montone et al. [`arxiv`](https://arxiv.org/abs/1711.10177)
 
 - [X] **Empirical Evaluation of Rectified Activations in Convolutional Network**,
 Xu et al. [`arxiv`](https://arxiv.org/abs/1505.00853)
+- [ ] **The Multiverse Loss for Robust Transfer Learning**, Littwin and Wolf.
+[`arxiv`](https://arxiv.org/abs/1511.09033)
 
 ### 2014:
 
