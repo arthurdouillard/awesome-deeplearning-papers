@@ -15,6 +15,8 @@
 [`arxiv`](https://arxiv.org/abs/1703.08033v1)
 - [X] **Prototypical Networks for Few-shot Learning**, Snell et al.
 [`arxiv`](https://arxiv.org/abs/1703.05175)
+- [X] **Beyond triplet loss: a deep quadruplet network for person re-identification**,
+Chen et al. [`arxiv`](https://arxiv.org/abs/1704.01719)
 
 ### 2016:
 
@@ -23,6 +25,8 @@
 - [ ] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
 - [ ] **LCNN: Lookup-based Convolutional Neural Network**, Bagherinezhad et al.
 [`arxiv`](https://arxiv.org/abs/1611.06473)
+- [ ] **Learning Deep Embeddings with Histogram Loss**, Ustinova and Lempitsky.
+[`arxiv`](https://arxiv.org/abs/1611.00822)
 
 ### 2015:
 
