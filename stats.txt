@@ -1,8 +1,8 @@
 ------ Global Statistics ------
-Total papers:  113
-Total read:    67
-Percentage:    59.29
-Nb of stars:   28
+Total papers:  114
+Total read:    68
+Percentage:    59.65
+Nb of stars:   29
 -------------------------------
 --- 0/1    Translation
 --- 1/1    Recommender Systems
@@ -20,6 +20,6 @@ Nb of stars:   28
 --- 0/2    Unsupervised / Semisupervised / Weakly supervised learning
 --- 12/15  CNN Architectures
 --- 0/1    Reinforcement learning
---- 1/3    Memory Augmented Neural Networks
+--- 2/4    Memory Augmented Neural Networks
 --- 4/4    Style Transfer
 --- 1/1    Language modeling

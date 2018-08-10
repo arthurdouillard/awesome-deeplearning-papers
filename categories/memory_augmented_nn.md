@@ -1,5 +1,10 @@
 # Memory Augmented Neural Networks
 
+### 2018:
+
+- [X] **Neural Arithmetic Logic Units**, Trask et al.
+[`arxiv`](https://arxiv.org/abs/1808.00508) :star:
+
 ### 2015:
 
 - [ ] **End-To-End Memory Networks**, Sukhbaatar et al.
