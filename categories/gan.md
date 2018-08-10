@@ -6,6 +6,8 @@
 Jolicoeur-Martineau, [`arxiv`](https://arxiv.org/abs/1807.00734)
 - [ ] **Self-Attention Generative Adversarial Networks**, Zhang et al.
 [`arxiv`](https://arxiv.org/abs/1805.08318)
+- [ ] **Image Inpainting for Irregular Holes Using Partial Convolutions**,
+Liu et al. [`arxiv`](https://arxiv.org/abs/1804.07723)
 
 ### 2017:
 
