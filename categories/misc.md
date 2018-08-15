@@ -2,6 +2,7 @@
 
 ### 2018:
 
+- [ ] **Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning**, Frazier-Logue and Hanson. [`arxiv`](https://arxiv.org/abs/1808.03578v1)
 - [X] **Why do deep convolutional networks generalize so poorly to small image transformations?**,
 Azulay et al. [`arxiv`](https://arxiv.org/abs/1805.12177) :star:
 - [X] **Pooling is neither necessary nor sufficient for appropriate deformation stability in CNNs**,
@@ -9,6 +10,8 @@ Ruderman et al. [`arxiv`](https://arxiv.org/abs/1804.04438)
 
 ### 2017:
 
+- [ ] **One pixel attack for fooling deep neural networks**, Su et al.
+[`arxiv`](https://arxiv.org/abs/1710.08864)
 - [X] **Gradual Tuning: a better way of Fine Tuning the parameters of a Deep Neural Network**,
 Montone et al. [`arxiv`](https://arxiv.org/abs/1711.10177)
 - [X] **Deep Learning Scaling is Predictable, Empirically**, Hestness et al.

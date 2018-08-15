@@ -1,7 +1,7 @@
 ------ Global Statistics ------
-Total papers:  115
+Total papers:  119
 Total read:    69
-Percentage:    60.0
+Percentage:    57.98
 Nb of stars:   28
 -------------------------------
 --- 12/15  CNN Architectures
@@ -11,14 +11,15 @@ Nb of stars:   28
 --- 1/1    Language modeling
 --- 8/16   Zero-shot, one-shot, and low-shot papers
 --- 2/4    Memory Augmented Neural Networks
---- 8/9    Miscealleneous
+--- 8/11   Miscealleneous
 --- 8/8    Normalization
 --- 7/11   Object Detection
 --- 3/3    Learning rates scheduling & optimizers
 --- 1/1    Recommender Systems
 --- 0/1    Reinforcement learning
+--- 0/1    Recurrent Neural Networks architecture
 --- 3/3    Segmentation
---- 0/2    Unsupervised / Semisupervised / Weakly supervised learning
+--- 0/3    Unsupervised / Semisupervised / Weakly supervised learning
 --- 4/4    Style Transfer
 --- 0/1    Translation
 --- 1/1    Visual Search
