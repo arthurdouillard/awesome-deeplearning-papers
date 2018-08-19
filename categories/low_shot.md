@@ -22,7 +22,7 @@ Chen et al. [`arxiv`](https://arxiv.org/abs/1704.01719)
 
 - [X] **Matching Networks for One Shot Learning**, Vinyals et al. [`arxiv`](https://arxiv.org/abs/1606.04080)
 - [X] **Low-shot Visual Recognition by Shrinking and Hallucinating Features**, Hariharan et al. [`arxiv`](https://arxiv.org/abs/1606.02819)
-- [ ] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
+- [X] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
 - [ ] **LCNN: Lookup-based Convolutional Neural Network**, Bagherinezhad et al.
 [`arxiv`](https://arxiv.org/abs/1611.06473)
 - [ ] **Learning Deep Embeddings with Histogram Loss**, Ustinova and Lempitsky.
