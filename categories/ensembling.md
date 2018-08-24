@@ -17,3 +17,8 @@ Garipov et al. [`arxiv`](https://arxiv.org/abs/1802.10026)
 
 - [X] **Distilling the Knowledge in a Neural Network**, Hinton et al.
 [`arxiv`](https://arxiv.org/abs/1503.02531) :star:
+
+### 2014:
+
+- [ ] **https://arxiv.org/abs/1412.6550**, Romera et al.
+[`arxiv`](https://arxiv.org/abs/1412.6550)
