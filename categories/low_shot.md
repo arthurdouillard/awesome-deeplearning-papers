@@ -17,6 +17,12 @@
 [`arxiv`](https://arxiv.org/abs/1703.05175)
 - [X] **Beyond triplet loss: a deep quadruplet network for person re-identification**,
 Chen et al. [`arxiv`](https://arxiv.org/abs/1704.01719)
+- [ ] **Few-Shot Image Recognition by Predicting Parameters from Activations**,
+Qiao et al. [`arxiv`](https://arxiv.org/abs/1706.03466)
+- [ ] **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**,
+Finn et al. [`arxiv`](https://arxiv.org/abs/1703.03400)
+- [ ] **Low-Shot Learning with Imprinted Weights**, Qi et al.
+[`arxiv`](https://arxiv.org/abs/1712.07136)
 
 ### 2016:
 
