@@ -7,6 +7,8 @@
 - [ ] **Meta-Learning for Semi-Supervised Few-Shot Classification**, Ren et al. [`arxiv`](https://arxiv.org/abs/1803.00676)
 - [X] **Deep Triplet Ranking Networks for One-Shot Recognition**, Ye and Guo.
 [`arxiv`](https://arxiv.org/abs/1804.07275v1)
+- [ ] **Dynamic Few-Shot Visual Learning without Forgetting**, Gidaris and Komodakis.
+[`arxiv`](https://arxiv.org/abs/1804.09458)
 
 ### 2017:
 
