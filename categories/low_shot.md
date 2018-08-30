@@ -33,7 +33,7 @@ Finn et al. [`arxiv`](https://arxiv.org/abs/1703.03400)
 - [X] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
 - [ ] **LCNN: Lookup-based Convolutional Neural Network**, Bagherinezhad et al.
 [`arxiv`](https://arxiv.org/abs/1611.06473)
-- [ ] **Learning Deep Embeddings with Histogram Loss**, Ustinova and Lempitsky.
+- [X] **Learning Deep Embeddings with Histogram Loss**, Ustinova and Lempitsky.
 [`arxiv`](https://arxiv.org/abs/1611.00822)
 - [ ] **Learning to learn by gradient descent by gradient descent**, Andrychowicz et al.
 [`arxiv`](https://arxiv.org/abs/1606.04474)
