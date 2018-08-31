@@ -9,6 +9,8 @@
 [`arxiv`](https://arxiv.org/abs/1804.07275v1)
 - [ ] **Dynamic Few-Shot Visual Learning without Forgetting**, Gidaris and Komodakis.
 [`arxiv`](https://arxiv.org/abs/1804.09458)
+- [ ] **Low-Shot Learning from Imaginary Data**, Wang et al.
+[`arxiv`](https://arxiv.org/abs/1801.05401)
 
 ### 2017:
 
@@ -25,6 +27,9 @@ Qiao et al. [`arxiv`](https://arxiv.org/abs/1706.03466)
 Finn et al. [`arxiv`](https://arxiv.org/abs/1703.03400)
 - [ ] **Low-Shot Learning with Imprinted Weights**, Qi et al.
 [`arxiv`](https://arxiv.org/abs/1712.07136)
+- [ ] **Low-shot learning with large-scale diffusion**, Douze et al.
+[`arxiv`](https://arxiv.org/abs/1706.02332v3)
+
 
 ### 2016:
 

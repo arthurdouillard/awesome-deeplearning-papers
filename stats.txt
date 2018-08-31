@@ -1,7 +1,7 @@
 ------ Global Statistics ------
-Total papers:  125
+Total papers:  127
 Total read:    71
-Percentage:    56.8
+Percentage:    55.91
 Nb of stars:   28
 -------------------------------
 --- 12/15  CNN Architectures
@@ -9,7 +9,7 @@ Nb of stars:   28
 --- 5/6    Ensembling & distillation
 --- 0/12   Generative Adversarial Networks
 --- 1/1    Language modeling
---- 10/21  Zero-shot, lowshot, and meta-learning
+--- 10/23  Zero-shot, lowshot, and meta-learning
 --- 2/4    Memory Augmented Neural Networks
 --- 8/11   Miscealleneous
 --- 8/8    Normalization
