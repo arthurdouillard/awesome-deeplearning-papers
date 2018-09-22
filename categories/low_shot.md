@@ -2,13 +2,13 @@
 
 ### 2018:
 
-- [X] **Optimization as a model for few-shots learning**, Ravi and Larochelle. [`pdf`](https://openreview.net/pdf?id=rJY0-Kcll)
+- [X] **Optimization as a model for few-shots learning**, Ravi and Larochelle. [`pdf`](https://openreview.net/pdf?id=rJY0-Kcll) :star:
 - [ ] **Few-shot learning of neural networks from scratch by pseudo example optimization**, Kimura et al. [`arxiv`](https://arxiv.org/abs/1802.03039)
 - [ ] **Meta-Learning for Semi-Supervised Few-Shot Classification**, Ren et al. [`arxiv`](https://arxiv.org/abs/1803.00676)
 - [X] **Deep Triplet Ranking Networks for One-Shot Recognition**, Ye and Guo.
 [`arxiv`](https://arxiv.org/abs/1804.07275v1)
 - [X] **Dynamic Few-Shot Visual Learning without Forgetting**, Gidaris and Komodakis.
-[`arxiv`](https://arxiv.org/abs/1804.09458)
+[`arxiv`](https://arxiv.org/abs/1804.09458) :star:
 - [X] **Low-Shot Learning from Imaginary Data**, Wang et al.
 [`arxiv`](https://arxiv.org/abs/1801.05401)
 
@@ -33,13 +33,13 @@ Finn et al. [`arxiv`](https://arxiv.org/abs/1703.03400)
 
 ### 2016:
 
-- [X] **Matching Networks for One Shot Learning**, Vinyals et al. [`arxiv`](https://arxiv.org/abs/1606.04080)
+- [X] **Matching Networks for One Shot Learning**, Vinyals et al. [`arxiv`](https://arxiv.org/abs/1606.04080) :star:
 - [X] **Low-shot Visual Recognition by Shrinking and Hallucinating Features**, Hariharan et al. [`arxiv`](https://arxiv.org/abs/1606.02819)
 - [X] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
 - [ ] **LCNN: Lookup-based Convolutional Neural Network**, Bagherinezhad et al.
 [`arxiv`](https://arxiv.org/abs/1611.06473)
 - [X] **Learning Deep Embeddings with Histogram Loss**, Ustinova and Lempitsky.
-[`arxiv`](https://arxiv.org/abs/1611.00822)
+[`arxiv`](https://arxiv.org/abs/1611.00822) :star:
 - [ ] **Learning to learn by gradient descent by gradient descent**, Andrychowicz et al.
 [`arxiv`](https://arxiv.org/abs/1606.04474)
 

@@ -1,8 +1,8 @@
 ------ Global Statistics ------
-Total papers:  133
-Total read:    74
-Percentage:    55.64
-Nb of stars:   29
+Total papers:  134
+Total read:    75
+Percentage:    55.97
+Nb of stars:   34
 -------------------------------
 --- 12/15  CNN Architectures
 --- 0/12   Text embeddings
@@ -13,7 +13,7 @@ Nb of stars:   29
 --- 2/9    Memory Augmented Neural Networks
 --- 8/11   Miscealleneous
 --- 8/8    Normalization
---- 7/11   Object Detection
+--- 8/12   Object Detection
 --- 3/3    Learning rates scheduling & optimizers
 --- 1/1    Recommender Systems
 --- 0/1    Reinforcement learning
