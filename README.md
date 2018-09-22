@@ -17,6 +17,7 @@ Notation:
 
 ## 2. Natural Language Processing
 
+- [RNN architectures](categories/rnn.md)
 - [Language modeling](categories/language_modeling.md)
 - [Translation](categories/translation.md)
 - [Embeddings](categories/embeddings.md)
@@ -32,7 +33,7 @@ Notation:
 
 ## 5. Miscealleneous
 
-- [Zero-shot, one-shot, and low-shot learning](categories/low_shot.md).
+- [Zero-shot, lowshot, and meta-learning](categories/low_shot.md).
 - [Visual Question Answering (VQA) & captioning](categories/vqa.md).
 - [Ensembling & distillation](categories/ensembling.md)
 - [Learning rates scheduling & optimizers](categories/optimizers.md)
