@@ -4,6 +4,11 @@
 
 - [X] **Mask R-CNN**, He et al. [`arxiv`](https://arxiv.org/abs/1703.06870) :star:
 
+### 2016:
+
+- [X] **Stacked Hourglass Networks for Human Pose Estimation**, Newell et al.
+[`arxiv`](https://arxiv.org/abs/1603.06937) :star:
+
 ### 2015:
 
 - [X] **U-Net: Convolutional Networks for Biomedical Image Segmentation**, Ronneberger et al.

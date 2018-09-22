@@ -1,8 +1,8 @@
 ------ Global Statistics ------
-Total papers:  132
-Total read:    73
-Percentage:    55.3
-Nb of stars:   28
+Total papers:  133
+Total read:    74
+Percentage:    55.64
+Nb of stars:   29
 -------------------------------
 --- 12/15  CNN Architectures
 --- 0/12   Text embeddings
@@ -18,7 +18,7 @@ Nb of stars:   28
 --- 1/1    Recommender Systems
 --- 0/1    Reinforcement learning
 --- 0/1    Recurrent Neural Networks architecture
---- 3/3    Segmentation
+--- 4/4    Segmentation
 --- 0/3    Unsupervised / Semisupervised / Weakly supervised learning
 --- 4/4    Style Transfer
 --- 0/1    Translation
