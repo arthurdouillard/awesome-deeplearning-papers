@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import glob
 import os
+import operator
 
 
 FOLDER = 'categories'
@@ -33,7 +34,6 @@ def get_global_stats(stats):
 
 if __name__ == '__main__':
     stats = {}
-
     for path in glob.iglob(os.path.join(FOLDER, '*.md')):
         get_stats(path, stats)
 
@@ -46,5 +46,8 @@ if __name__ == '__main__':
     print('Nb of stars:  ', global_stats[2])
     print('-------------------------------')
 
-    for title, (read, total, _) in stats.items():
+    stats = [(title, read, total, star) for title, (read, total, star) in stats.items()]
+    stats.sort(key=operator.itemgetter(2, 1, 3), reverse=True)
+
+    for title, read, total, _ in stats:
         print('--- {}/{}'.format(read, total).ljust(10, ' '), title)
