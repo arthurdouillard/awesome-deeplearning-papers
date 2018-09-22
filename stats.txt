@@ -4,23 +4,23 @@ Total read:    75
 Percentage:    55.97
 Nb of stars:   34
 -------------------------------
---- 12/15  CNN Architectures
---- 0/12   Text embeddings
---- 5/6    Ensembling & distillation
---- 0/12   Generative Adversarial Networks
---- 1/1    Language modeling
 --- 12/23  Zero-shot, lowshot, and meta-learning
---- 2/9    Memory Augmented Neural Networks
---- 8/11   Miscealleneous
---- 8/8    Normalization
+--- 12/15  CNN Architectures
 --- 8/12   Object Detection
---- 3/3    Learning rates scheduling & optimizers
---- 1/1    Recommender Systems
---- 0/1    Reinforcement learning
---- 0/1    Recurrent Neural Networks architecture
---- 4/4    Segmentation
---- 0/3    Unsupervised / Semisupervised / Weakly supervised learning
---- 4/4    Style Transfer
---- 0/1    Translation
---- 1/1    Visual Search
+--- 0/12   Text embeddings
+--- 0/12   Generative Adversarial Networks
+--- 8/11   Miscealleneous
+--- 2/9    Memory Augmented Neural Networks
+--- 8/8    Normalization
 --- 6/6    Visual Question Answering (VQA) & Captioning
+--- 5/6    Ensembling & distillation
+--- 4/4    Segmentation
+--- 4/4    Style Transfer
+--- 3/3    Learning rates scheduling & optimizers
+--- 0/3    Unsupervised / Semisupervised / Weakly supervised learning
+--- 1/1    Language modeling
+--- 1/1    Recommender Systems
+--- 1/1    Visual Search
+--- 0/1    Reinforcement learning
+--- 0/1    Translation
+--- 0/1    Recurrent Neural Networks architecture
