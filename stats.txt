@@ -1,10 +1,10 @@
 ------ Global Statistics ------
-Total papers:  134
+Total papers:  135
 Total read:    75
-Percentage:    55.97
+Percentage:    55.56
 Nb of stars:   34
 -------------------------------
---- 12/23  Zero-shot, lowshot, and meta-learning
+--- 12/24  Zero-shot, lowshot, and meta-learning
 --- 12/15  CNN Architectures
 --- 8/12   Object Detection
 --- 0/12   Text embeddings

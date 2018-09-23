@@ -11,6 +11,8 @@
 [`arxiv`](https://arxiv.org/abs/1804.09458) :star:
 - [X] **Low-Shot Learning from Imaginary Data**, Wang et al.
 [`arxiv`](https://arxiv.org/abs/1801.05401)
+- [ ] **LSTD: A Low-Shot Transfer Detector for Object Detection**, Chen et al.
+[`arxiv`](https://arxiv.org/abs/1803.01529)
 
 ### 2017:
 
