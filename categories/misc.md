@@ -33,6 +33,8 @@ Xu et al. [`arxiv`](https://arxiv.org/abs/1505.00853)
 
 - [X] **How transferable are features in deep neural networks?**, Yosinski et al.
 [`url`](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks)
+- [X] **Unsupervised Domain Adaptation by Backpropagation**, Ganin and Lempitsky.
+[`arxiv`](https://arxiv.org/abs/1409.7495) :star:
 
 ### 2012:
 

@@ -1,15 +1,15 @@
 ------ Global Statistics ------
-Total papers:  135
-Total read:    75
-Percentage:    55.56
-Nb of stars:   34
+Total papers:  136
+Total read:    76
+Percentage:    55.88
+Nb of stars:   35
 -------------------------------
 --- 12/24  Zero-shot, lowshot, and meta-learning
 --- 12/15  CNN Architectures
+--- 9/12   Miscealleneous
 --- 8/12   Object Detection
 --- 0/12   Text embeddings
 --- 0/12   Generative Adversarial Networks
---- 8/11   Miscealleneous
 --- 2/9    Memory Augmented Neural Networks
 --- 8/8    Normalization
 --- 6/6    Visual Question Answering (VQA) & Captioning
