@@ -28,6 +28,8 @@ Montone et al. [`arxiv`](https://arxiv.org/abs/1711.10177)
 Xu et al. [`arxiv`](https://arxiv.org/abs/1505.00853)
 - [ ] **The Multiverse Loss for Robust Transfer Learning**, Littwin and Wolf.
 [`arxiv`](https://arxiv.org/abs/1511.09033)
+- [ ] **Spatial Transformer Networks**, Jaderberg et al.
+[`arxiv`](https://arxiv.org/abs/1506.02025)
 
 ### 2014:
 
