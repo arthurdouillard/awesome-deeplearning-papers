@@ -2,6 +2,7 @@
 
 ./stats.py > stats.txt
 
+git add *.md
 git add */*.md
 git add stats.txt
 
