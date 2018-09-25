@@ -6,8 +6,6 @@
 [`arxiv`](https://arxiv.org/abs/1804.02767)
 - [X] **CornerNet: Detecting Objects as Paired Keypoints**, Law and Dang.
 [`arxiv`](https://arxiv.org/abs/1808.01244) :star:
-- [ ] **Domain Adaptive Faster R-CNN for Object Detection in the Wild**,
-Chen et al. [`arxiv`](https://arxiv.org/abs/1803.03243)
 
 ### 2017:
 

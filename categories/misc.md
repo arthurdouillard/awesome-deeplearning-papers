@@ -12,8 +12,6 @@ Ruderman et al. [`arxiv`](https://arxiv.org/abs/1804.04438)
 
 - [ ] **One pixel attack for fooling deep neural networks**, Su et al.
 [`arxiv`](https://arxiv.org/abs/1710.08864)
-- [X] **Gradual Tuning: a better way of Fine Tuning the parameters of a Deep Neural Network**,
-Montone et al. [`arxiv`](https://arxiv.org/abs/1711.10177)
 - [X] **Deep Learning Scaling is Predictable, Empirically**, Hestness et al.
 [`arxiv`](https://arxiv.org/abs/1712.00409) :star:
 
@@ -35,8 +33,6 @@ Xu et al. [`arxiv`](https://arxiv.org/abs/1505.00853)
 
 - [X] **How transferable are features in deep neural networks?**, Yosinski et al.
 [`url`](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks)
-- [X] **Unsupervised Domain Adaptation by Backpropagation**, Ganin and Lempitsky.
-[`arxiv`](https://arxiv.org/abs/1409.7495) :star:
 
 ### 2012:
 
