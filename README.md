@@ -38,6 +38,7 @@ Notation:
 - [Ensembling & distillation](categories/ensembling.md)
 - [Learning rates scheduling & optimizers](categories/optimizers.md)
 - [Miscealleneous](categories/misc.md)
+- [Domain Adaptation / Transfer Learning](categories/domain_adaptation.md)
 - [Recommender Systems](categories/recsys.md)
 - [Normalization](categories/normalization.md)
 - [Memory Augmented Neural Networks (MANN)](categories/memory_augmented_nn.md)
