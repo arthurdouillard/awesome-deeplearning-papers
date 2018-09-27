@@ -1,8 +1,8 @@
 ------ Global Statistics ------
 Total papers:  143
-Total read:    77
-Percentage:    53.85
-Nb of stars:   35
+Total read:    78
+Percentage:    54.55
+Nb of stars: 35 (44.87)%
 -------------------------------
 --- 12/24  Zero-shot, lowshot, and meta-learning
 --- 12/15  CNN Architectures
@@ -12,7 +12,7 @@ Nb of stars:   35
 --- 7/11   Miscealleneous
 --- 2/9    Memory Augmented Neural Networks
 --- 8/8    Normalization
---- 6/8    Ensembling / distillation / compression / pruning
+--- 7/8    Ensembling / distillation / compression / pruning
 --- 6/6    Visual Question Answering (VQA) & Captioning
 --- 2/6    Domain adaptation / transfer learning
 --- 4/4    Segmentation

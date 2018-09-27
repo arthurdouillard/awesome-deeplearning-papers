@@ -17,7 +17,7 @@ Garipov et al. [`arxiv`](https://arxiv.org/abs/1802.10026)
 
 ### 2015:
 
-- [ ] **Learning both Weights and Connections for Efficient Neural Networks**,
+- [X] **Learning both Weights and Connections for Efficient Neural Networks**,
 Han et al. [`arxiv`](https://arxiv.org/abs/1506.02626)
 - [X] **Distilling the Knowledge in a Neural Network**, Hinton et al.
 [`arxiv`](https://arxiv.org/abs/1503.02531) :star:
