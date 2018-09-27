@@ -35,7 +35,7 @@ Notation:
 
 - [Zero-shot, lowshot, and meta-learning](categories/low_shot.md).
 - [Visual Question Answering (VQA) & captioning](categories/vqa.md).
-- [Ensembling & distillation](categories/ensembling.md)
+- [Ensembling / distillation / compression](categories/ensembling.md)
 - [Learning rates scheduling & optimizers](categories/optimizers.md)
 - [Miscealleneous](categories/misc.md)
 - [Domain Adaptation / Transfer Learning](categories/domain_adaptation.md)

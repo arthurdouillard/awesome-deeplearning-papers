@@ -2,6 +2,8 @@
 
 ### 2018:
 
+- [X] **The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks**, Frankle and Carbin.
+[`arxiv`](https://arxiv.org/abs/1803.03635)
 - [X] **Averaging Weights Leads to Wider Optima and Better Generalization**, Izmailov et al.
 [`arxiv`](https://arxiv.org/abs/1803.05407) :star:
 - [X] **Born Again Neural Networks**, Furlanello et al. [`arxiv`](https://arxiv.org/abs/1805.04770)
