@@ -43,7 +43,7 @@ if __name__ == '__main__':
     print('Total papers: ', global_stats[1])
     print('Total read:   ', global_stats[0])
     print('Percentage:   ', round(100 * global_stats[0] / global_stats[1], 2))
-    print('Nb of stars:  ', global_stats[2])
+    print(f'Nb of stars: {global_stats[2]} ({round(100 * global_stats[2] / global_stats[0], 2)})%')
     print('-------------------------------')
 
     stats = [(title, read, total, star) for title, (read, total, star) in stats.items()]
