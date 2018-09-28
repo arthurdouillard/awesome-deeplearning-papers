@@ -1,7 +1,7 @@
 ------ Global Statistics ------
-Total papers:  143
+Total papers:  148
 Total read:    78
-Percentage:    54.55
+Percentage:    52.7
 Nb of stars: 35 (44.87)%
 -------------------------------
 --- 12/24  Zero-shot, lowshot, and meta-learning
@@ -15,6 +15,7 @@ Nb of stars: 35 (44.87)%
 --- 7/8    Ensembling / distillation / compression / pruning
 --- 6/6    Visual Question Answering (VQA) & Captioning
 --- 2/6    Domain adaptation / transfer learning
+--- 0/6    Recurrent Neural Networks architecture
 --- 4/4    Segmentation
 --- 4/4    Style Transfer
 --- 3/3    Learning rates scheduling & optimizers
@@ -24,4 +25,3 @@ Nb of stars: 35 (44.87)%
 --- 1/1    Visual Search
 --- 0/1    Reinforcement learning
 --- 0/1    Translation
---- 0/1    Recurrent Neural Networks architecture
