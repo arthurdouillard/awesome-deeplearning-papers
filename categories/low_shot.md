@@ -35,6 +35,9 @@ Finn et al. [`arxiv`](https://arxiv.org/abs/1703.03400)
 
 ### 2016:
 
+- [X] **Improved Deep Metric Learning with Multi-class N-pair Loss Objective**,
+Sohn. [`url`](https://papers.nips.cc/paper/6200-improved-deep-metric-learning-with-multi-class-n-pair-loss-objective)
+:star:
 - [X] **Matching Networks for One Shot Learning**, Vinyals et al. [`arxiv`](https://arxiv.org/abs/1606.04080) :star:
 - [X] **Low-shot Visual Recognition by Shrinking and Hallucinating Features**, Hariharan et al. [`arxiv`](https://arxiv.org/abs/1606.02819)
 - [X] **One-shot Learning with Memory-Augmented Neural Networks**, Santoro et al. [`arxiv`](https://arxiv.org/abs/1605.06065)
