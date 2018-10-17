@@ -1,3 +1,7 @@
+**I've switched to a more practical method to handle my papers: Zotero.
+Thus I won't update anymore this repo, sorry. Feel free to fork it.**
+
+
 # awesome-deeplearning-papers
 A collection of Deep Learning papers I read, sorted by category.
 
